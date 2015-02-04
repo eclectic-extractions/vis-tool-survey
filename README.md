@@ -2,5 +2,5 @@ A comparison of different plotting APIs.
 
 | Tool | Line | Image |
 |------|------|-------|
-| A    | [x](line-plot/pdl-graphics-gnuplot.pl) | |
-| B    |      | [x](image-display/matlab.m) |
+| PDL::Graphics::Gnuplot | [x](line-plot/pdl-graphics-gnuplot.pl) | |
+| MATLAB    |      | [x](image-display/matlab.m) |
