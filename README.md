@@ -6,3 +6,4 @@ A comparison of different plotting APIs.
 | MATLAB                 | [x](line-plot/matlab.m)                | [x](image-display/matlab.m)                |
 | ggplot2                | [x](line-plot/ggplot2.R)               |                                            |
 | R graphics package     |                                        | [x](image-display/r-graphics.R)            |
+| Gnuplot                | [x](line-plot/gnuplot.gp)              |                                            |
