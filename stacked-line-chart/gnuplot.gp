@@ -26,4 +26,4 @@ plot \
   for [i=2:5:1] \
     "stacked-line-chart/stack.data" using 1:(sum [col=i:5] column(col)) \
       notitle \
-      with lines lc rgb "#000000" lt -1 lw 1
+      with linespoints lc rgb "#000000" lt -1 lw 1 pt 7 ps 0.5
