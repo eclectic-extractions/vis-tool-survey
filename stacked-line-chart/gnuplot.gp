@@ -19,11 +19,11 @@ set xtics out
 set tics front
 set key below
 plot \
-  for [i=2:5:1] \
-    "stacked-line-chart/stack.data" using 1:(sum [col=i:5] column(col)) \
+  for [i=5:2:-1] \
+    "stacked-line-chart/stack.data" using 1:(sum [col=2:i] column(col)) \
       title columnheader(i) \
       with filledcurves x1, \
-  for [i=2:5:1] \
-    "stacked-line-chart/stack.data" using 1:(sum [col=i:5] column(col)) \
+  for [i=5:2:-1] \
+    "stacked-line-chart/stack.data" using 1:(sum [col=2:i] column(col)) \
       notitle \
       with linespoints lc rgb "#000000" lt -1 lw 1 pt 7 ps 0.5
