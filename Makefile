@@ -2,7 +2,7 @@ PGG_TARGETS:= gfx/line-plot/pdl-graphics-gnuplot.png gfx/image-display/pdl-graph
 PYGAL_TARGETS:= gfx/line-plot/pygal_example.svg gfx/stacked-line-chart/pygal_example.svg
 MATLAB_TARGETS:= gfx/image-display/matlab-matlab.png
 OCTAVE_TARGETS:= gfx/image-display/matlab-octave.png
-R_TARGETS:= gfx/image-display/r-graphics.svg gfx/bar-plot/r-graphics.svg gfx/line-plot/ggplot2.svg
+R_TARGETS:= gfx/image-display/r-graphics.svg gfx/bar-plot/r-graphics.svg gfx/line-plot/ggplot2.svg gfx/line-plot/r-graphics.svg
 GP_TARGETS:= gfx/line-plot/gnuplot.svg gfx/stacked-line-chart/gnuplot.svg gfx/image-display/gnuplot.png
 
 
