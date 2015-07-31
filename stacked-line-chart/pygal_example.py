@@ -3,7 +3,7 @@
 import pygal
 import csv
 
-data_file = 'stacked-line-chart/stack.data'
+data_file = 'data/browser-usage.data'
 
 years = []
 browser_names = []

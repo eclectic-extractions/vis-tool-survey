@@ -5,7 +5,7 @@
 
 sep = ","
 set datafile separator sep
-data_file = "stacked-line-chart/stack.data"
+data_file = "data/browser-usage.data"
 #N = 5
 N = system(sprintf("awk -F%s 'NR==1{print NF}' %s", sep, data_file))
 
