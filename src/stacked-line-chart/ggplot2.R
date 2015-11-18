@@ -6,6 +6,8 @@ data <- read.csv( 'data/browser-usage.data', colClasses = c( Year = "yyyy" ) )
 
 library(reshape2)
 data.melt <- melt(data, id.var="Year")
+print(data)
+print(summary(data))
 
 p <- ggplot(data.melt, aes(x = Year, y = value, fill = variable))
-show(p + geom_bar( stat = "identity" ))
+show( p + geom_area() )
