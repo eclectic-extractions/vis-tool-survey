@@ -4,7 +4,8 @@ MATLAB_TARGETS:= gfx/image-display/matlab-matlab.png
 OCTAVE_TARGETS:= gfx/image-display/matlab-octave.png
 R_TARGETS:= gfx/image-display/r-graphics.svg gfx/bar-plot/r-graphics.svg \
 	gfx/line-plot/ggplot2.svg gfx/line-plot/r-graphics.svg \
-	gfx/stacked-bar-chart/ggplot2.svg gfx/stacked-line-chart/ggplot2.svg
+	gfx/stacked-bar-chart/ggplot2.svg gfx/stacked-line-chart/ggplot2.svg \
+	gfx/bar-plot/ggplot2.svg
 GP_TARGETS:= gfx/line-plot/gnuplot.svg gfx/stacked-line-chart/gnuplot.svg gfx/image-display/gnuplot.png
 
 
