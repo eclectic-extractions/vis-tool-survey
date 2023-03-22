@@ -1,2 +1,4 @@
 - [[Home — VisPy|https://vispy.org/]]
 - [[VTK - The Visualization Toolkit|https://vtk.org/]]
+- [[Mayavi: 3D scientific data visualization and plotting in Python|https://docs.enthought.com/mayavi/mayavi/]]
+- [[Chaco|http://docs.enthought.com/chaco/]]
