@@ -3,3 +3,5 @@
 - [[Mayavi: 3D scientific data visualization and plotting in Python|https://docs.enthought.com/mayavi/mayavi/]]
 - [[Chaco|http://docs.enthought.com/chaco/]]
 - [[GGobi data visualization system.|http://ggobi.org/]]
+- [[PLplot Home Page - Main|https://plplot.sourceforge.net/]]
+- [[PGPLOT - Wikipedia|https://en.wikipedia.org/wiki/PGPLOT]]
