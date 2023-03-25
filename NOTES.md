@@ -5,3 +5,6 @@
 - [[GGobi data visualization system.|http://ggobi.org/]]
 - [[PLplot Home Page - Main|https://plplot.sourceforge.net/]]
 - [[PGPLOT - Wikipedia|https://en.wikipedia.org/wiki/PGPLOT]]
+- [[PGF/TikZ - Wikipedia|https://en.wikipedia.org/wiki/PGF/TikZ]]
+- [[PGFPlots - A LaTeX package to create plots.|https://pgfplots.sourceforge.net/]]
+    * [[PGFplots.net – Drawing plots and diagrams with LaTeX and PGFplots|https://pgfplots.net/]]
