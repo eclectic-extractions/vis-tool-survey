@@ -10,3 +10,4 @@
     * [[PGFplots.net – Drawing plots and diagrams with LaTeX and PGFplots|https://pgfplots.net/]]
 - [[GitHub - rich-iannone/DiagrammeR: Graph and network visualization using tabular data in R|https://github.com/rich-iannone/DiagrammeR]]
 - [[VPython - Wikipedia|https://en.wikipedia.org/wiki/VPython]]
+- [[GitHub - wavedrom/wavedrom: Digital timing diagram rendering engine|https://github.com/wavedrom/wavedrom]]
