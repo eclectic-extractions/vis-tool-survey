@@ -14,3 +14,6 @@
 - [[Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.|https://plantuml.com/]]
 - [[DiagrammeR|http://rich-iannone.github.io/DiagrammeR/]]
 - [[Asymptote|https://asymptote.sourceforge.io/]]
+
+- [[D3.js - Data-Driven Documents|https://d3js.org/]]
+- [[C3.js - D3-based reusable chart library|https://c3js.org/]]
