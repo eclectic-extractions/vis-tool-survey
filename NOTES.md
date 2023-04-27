@@ -18,3 +18,4 @@
 - [[D3.js - Data-Driven Documents|https://d3js.org/]]
 - [[C3.js - D3-based reusable chart library|https://c3js.org/]]
 - [[The D3 Graph Gallery – Simple charts made with d3.js|https://d3-graph-gallery.com/]]
+- [[GitHub - Vindaar/ggplotnim: A port of ggplot2 for Nim|https://github.com/Vindaar/ggplotnim]]
